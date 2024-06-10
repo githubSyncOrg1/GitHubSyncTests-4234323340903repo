@@ -2,5 +2,12 @@
   "dependencies": [],
   "main": "api.raml",
   "name": "GitHubSyncTests-4234323340903",
-  "groupId": "1272ef82-61b0-44eb-bf01-62695318724c"
+  "groupId": "1272ef82-61b0-44eb-bf01-62695318724c",
+  "organizationId": "1272ef82-61b0-44eb-bf01-62695318724c",
+  "assetId": "githubsynctests-4234323340903",
+  "version": "1.0.0",
+  "apiVersion": "v1",
+  "tags": [],
+  "classifier": "raml",
+  "originalFormatVersion": "1.0"
 }
