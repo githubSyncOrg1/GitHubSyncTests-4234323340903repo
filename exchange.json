@@ -1,5 +1,6 @@
 {
   "dependencies": [],
   "main": "api.raml",
-  "name": "GitHubSyncTests-4234323340903"
+  "name": "GitHubSyncTests-4234323340903",
+  "groupId": "1272ef82-61b0-44eb-bf01-62695318724c"
 }
